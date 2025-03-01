@@ -20,14 +20,13 @@ I'm a passionate developer with experience in mobile app development, desktop ap
 
 ## Projects
 <!-- Add your projects here -->
-1. **Wall-E**—Wall-E is a Selenium-based desktop app that tracks and finds open seats in East West University courses. It runs continuously or at set intervals, notifying users when a seat becomes available. The app also sends an email to the Advisor using an editable template.
-   - [GitHub Repo]((https://github.com/sheikhhossainn/Wall-E))
+1. **Wall-E**—Wall-E is a Selenium-based desktop app that tracks and finds open seats in East West University courses. It runs continuously or at set intervals and notifies users when a seat becomes available. The app also sends an email to the Advisor using an editable template.
+   - [GitHub Repo](https://github.com/sheikhhossainn/Wall-E)
    - [Live Demo](https://www.facebook.com/sheikh.hossain.bin.bakhtiar/videos/1569554367098470)
 
 2. **Grocery List**—Grocery List is a mobile application designed to help users easily track their grocery items and prices. It calculates the total cost of items, reducing the hassle and effort of shopping.
    - [GitHub Repo](https://github.com/sheikhhossainn/Grocery-List) 
    - [Live Demo](https://github.com/user-attachments/assets/566f0f31-1069-40b6-bbf8-36a0c1aaf054)
-   - 
 
 ## Education
 <!-- Add your education details here -->
