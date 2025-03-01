@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Sheikh Hossain
 
 📍 Merul Badda, Dhaka, Bangladesh  
-📧 skhossain799@gmail.com  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:skhossain799@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sheikh-hossain-bin-bakhtiar)
 
 ## About Me
