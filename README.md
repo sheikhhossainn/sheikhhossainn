@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sheikh-hossain-bin-bakhtiar)
 
 ## About Me
-I'm a passionate developer with experience in mobile app development, desktop applications, automation, and algorithm implementation. Currently expanding my skills in web development with Python/Django and data science.
+I'm a passionate developer with experience in mobile app development, desktop applications, automation, and algorithm implementation. Currently expanding my skills in web development with Python/Django and Data Science.
 
 ## Skills
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
@@ -31,5 +31,3 @@ I'm a passionate developer with experience in mobile app development, desktop ap
 ## Education
 <!-- Add your education details here -->
 - **Computer Science and Engineering** - East West University (2023 - 2027)
-
-![Profile Views](https://komarev.com/ghpvc/?username=sheikhhossainn&color=blue&style=flat&unique=true)
