@@ -14,7 +14,6 @@ I'm a passionate developer with experience in mobile app development, desktop ap
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![Kivy](https://img.shields.io/badge/-Kivy-3775A9?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Data Science](https://img.shields.io/badge/-Data%20Science-FF6F00?style=flat&logo=databricks&logoColor=white)
 
