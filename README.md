@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sheikh-hossain-bin-bakhtiar)
 
 ## 👨‍💻 About Me
-I'm a passionate developer with experience in mobile app development, desktop applications, automation, and algorithm implementation. Currently expanding my skills in web development with Python/Django and Data Science.
+I'm a passionate developer with experience in mobile app development, desktop applications, automation, and algorithm implementation. Currently expanding my skills in web development and Data Science.
 
 ## 🛠️ Skills
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
