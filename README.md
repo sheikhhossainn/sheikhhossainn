@@ -1,12 +1,11 @@
 # Hi there 👋, I'm Sheikh Hossain Bin Bakhtiar
-You can call me Shahi
 
 📍 Merul Badda, Dhaka, Bangladesh  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:skhossain799@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sheikh-hossain-bin-bakhtiar)
 
 ## 👨‍💻 About Me
-I'm a passionate developer with experience in mobile app development, desktop applications, automation, and algorithm implementation. Currently expanding my skills in web development and Data Science.
+You can call me Shahi, I'm a passionate developer with experience in mobile app development, desktop applications, automation, and algorithm implementation. Currently expanding my skills in web development and Data Science.
 
 ## 🛠️ Skills
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
