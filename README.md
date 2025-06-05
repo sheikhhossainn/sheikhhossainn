@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Sheikh Hossain Bin Bakhtiar
-# You can call me Shahi
+You can call me Shahi
 
 📍 Merul Badda, Dhaka, Bangladesh  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:skhossain799@gmail.com)
