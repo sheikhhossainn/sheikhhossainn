@@ -23,7 +23,7 @@ I'm versatile in both **web development** (frontend & backend) and emerging **AI
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Gemini API](https://img.shields.io/badge/-Gemini_API-8E75B2?style=flat&logo=google&logoColor=white)
 
 ### Currently Learning
 - 🤖 AI Model Fine-tuning
