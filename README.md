@@ -1,17 +1,17 @@
 # Sheikh Hossain Bin Bakhtiar
-### Full-Stack Web Developer · CSE @ East West University
+### Full-Stack Web Developer | CSE @ East West University
 
-[![Email](https://img.shields.io/badge/sheikh.hossain.bb@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sheikh.hossain.bb@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sheikh-hossain-bin-bakhtiar)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=sheikh.hossain.bb@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheikh-hossain-bin-bakhtiar-2006a6278)
 [![Location](https://img.shields.io/badge/Dhaka%2C_Bangladesh-gray?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
 ---
 
 ## About
 
-I'm **Shahi** — a full-stack web developer who cares deeply about how systems are built, not just that they work. My focus is on writing clean, maintainable code and understanding the architecture behind production-grade applications — from database schema design to scalable API structure to thoughtful UI.
+I'm **Shahi**, a full-stack web developer who cares deeply about how systems are built, not just that they work. My focus is on writing clean, maintainable code and understanding the architecture behind production-grade applications: from database schema design to scalable API structure to thoughtful UI.
 
-Alongside web development, I'm building expertise in **Data Science and Machine Learning** — learning to fine-tune models and integrate intelligent capabilities into real-world web products.
+Alongside web development, I'm building expertise in **Data Science and Machine Learning**, learning to fine-tune models and integrate intelligent capabilities into real-world web products.
 
 > *I don't just build websites. I build systems.*
 
@@ -45,7 +45,7 @@ Alongside web development, I'm building expertise in **Data Science and Machine 
 - 📊 Data Science fundamentals and applied ML
 - 🧠 Model fine-tuning for domain-specific tasks
 - 🔗 AI integration in production web applications
-- 🏗️ System design — scalability, architecture patterns, and engineering decisions
+- 🏗️ System design: scalability, architecture patterns, and engineering decisions
 
 ---
 
@@ -60,7 +60,7 @@ East West University, Dhaka · 2023 – 2027
 
 - Ship full-stack products that are well-architected, not just functional
 - Bridge the gap between web engineering and AI capabilities
-- Build systems that scale — and understand exactly why they do
+- Build systems that scale and understand exactly why they do
 
 ---
 
