@@ -1,5 +1,5 @@
 # Sheikh Hossain Bin Bakhtiar
-### Full-Stack Web Developer | CSE @ East West University
+### Full-Stack Web & Mobile Developer | Data Science Major
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=sheikh.hossain.bb@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheikh-hossain-bin-bakhtiar-2006a6278)
@@ -9,11 +9,11 @@
 
 ## About
 
-I'm **Shahi**, a full-stack web developer who cares deeply about how systems are built, not just that they work. My focus is on writing clean, maintainable code and understanding the architecture behind production-grade applications: from database schema design to scalable API structure to thoughtful UI.
+I'm **Shahi**, a full-stack web and mobile developer who builds complete, user-focused applications across web and mobile platforms. I care deeply about how systems are built—not just that they work—with a focus on clean, maintainable code and thoughtful architecture.
 
-Alongside web development, I'm building expertise in **Data Science and Machine Learning**, learning to fine-tune models and integrate intelligent capabilities into real-world web products.
+I'm also majoring in **Data Science** and currently learning **Machine Learning**, with a focus on Python, scikit-learn, data analysis, and integrating intelligent capabilities into real-world applications.
 
-> *I don't just build websites. I build systems.*
+> *I don't just build websites. I build systems for web, mobile, and data-driven experiences.*
 
 ---
 
@@ -25,6 +25,9 @@ Alongside web development, I'm building expertise in **Data Science and Machine 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
+### Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
@@ -35,32 +38,31 @@ Alongside web development, I'm building expertise in **Data Science and Machine 
 
 ### AI & Data Science *(in progress)*
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 ---
 
 ## Currently Learning
 
-- 📊 Data Science fundamentals and applied ML
-- 🧠 Model fine-tuning for domain-specific tasks
-- 🔗 AI integration in production web applications
+- 📊 Data Science fundamentals and applied machine learning
+- 🐍 Python and scikit-learn for data analysis and predictive modeling
+- 🔗 Integrating data-driven features into web and mobile applications
 - 🏗️ System design: scalability, architecture patterns, and engineering decisions
 
 ---
 
 ## Education
 
-**B.Sc. in Computer Science & Engineering**
+**B.Sc. in Data Science**
 East West University, Dhaka · 2023 – 2027
 
 ---
 
 ## Goals
 
-- Ship full-stack products that are well-architected, not just functional
-- Bridge the gap between web engineering and AI capabilities
-- Build systems that scale and understand exactly why they do
+- Ship full-stack web and mobile products that are well-architected, not just functional
+- Bridge the gap between software engineering, data science, and machine learning
+- Build data-driven systems that scale and understand exactly why they do
 
 ---
 
