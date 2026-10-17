@@ -13,7 +13,7 @@ I'm **Shahi**, a full-stack web and mobile developer who builds complete, user-f
 
 I'm also majoring in **Data Science** and currently learning **Machine Learning**, with a focus on Python, scikit-learn, data analysis, and integrating intelligent capabilities into real-world applications.
 
-> *I don't just build websites. I build systems for web, mobile, and data-driven experiences.*
+> *I build systems for web, mobile, and data-driven experiences.*
 
 ---
 
