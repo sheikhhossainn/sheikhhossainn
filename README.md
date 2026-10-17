@@ -54,7 +54,7 @@ I'm also majoring in **Data Science** and currently learning **Machine Learning*
 ## Education
 
 **B.Sc. in Data Science**
-East West University, Dhaka · 2023 – 2027
+East West University, Dhaka · 2023 – 2026
 
 ---
 
